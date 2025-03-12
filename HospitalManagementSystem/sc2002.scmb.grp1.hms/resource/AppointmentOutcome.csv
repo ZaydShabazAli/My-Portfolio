@@ -1,0 +1,8 @@
+OutcomeID,AppointmentID,Date,ServiceType,PrescribedMedication,MedicationStatus,ConsultationNotes
+AO000,AP010,12-10-2025,Blood Test,Painkiller,Dispensed,Patient in pain
+AO001,AP010,12-10-2025,Blood Test,Painkiller,Dispensed,Patient in pain
+AO002,AP010,10-12-2024,Eye Test,"Eye Drops, Painkiller",Pending,Patient in pain
+AO003,AP006,12-12-2024,Blood Test,nil,Dispensed,Dengue+
+AO004,AP011,10-10-2024,Eye Test,Eye Drops,Dispensed,Conjunvititis
+AO005,AP012,12-12-2024,Consultation,"nil",Pending,MC 3 days
+AO006,AP009,14-12-2024,cancer,"nil",Pending,nil

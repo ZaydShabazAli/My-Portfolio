@@ -1,0 +1,3 @@
+UserID,Name,Role,Password,Gender,Age,StaffEmail,StaffContact
+PH001,Emily,Pharmacist,Password,Female,32,emily.clark@hospital.com,76543210
+PH002,David,Pharmacist,Password,Male,29,david.lim@hospital.com,76543211

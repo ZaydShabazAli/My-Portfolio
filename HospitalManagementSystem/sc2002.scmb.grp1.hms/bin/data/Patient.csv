@@ -1,0 +1,4 @@
+UserID,Name,Role,Password,Gender,Age,PhoneNumber,Email,DOB,BloodType
+P001,Sarah,Patient,Password,Female,28,12345678,a@email.com,1996-05-12,A+
+P002,Michael,Patient,Password,Male,34,12345678,a@email.com,1989-11-23,B-
+P003,Laura,Patient,Password,Female,23,12345678,a@email.com,2001-08-15,O+

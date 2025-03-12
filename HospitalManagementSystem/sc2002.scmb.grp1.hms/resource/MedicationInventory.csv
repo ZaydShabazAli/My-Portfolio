@@ -1,0 +1,11 @@
+MedicationName,StockLevel,StockAlertLevel
+Painkiller,120,50
+Cough Syrup,85,30
+Antibiotic,200,100
+Stomach Acid Reducer,95,40
+Heart Medication,30,10
+Cold Medicine,50,20
+Thyroid Pills,130,50
+Inhaler,205,25
+Anti-Inflammatory,60,25
+Eye Drops,100,50

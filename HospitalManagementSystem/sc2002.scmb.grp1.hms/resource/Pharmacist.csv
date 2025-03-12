@@ -1,0 +1,8 @@
+UserID,Name,Role,Password,Gender,Age,StaffEmail,StaffContact,Question,Answer
+PH001,Emily,Pharmacist,Password,Female,32,clark.emily@hospital.com,76543210,my birth year ,2002
+PH002,David,Pharmacist,Password,Male,29,david.lim@hospital.com,76543211
+PH003,James,Pharmacist,Password,Female,33,james.female@hospital.com,42668981
+PH004,Sarah,Pharmacist,Password,Female,35,sarah.female@hospital.com,62870607
+PH005,Anna,Pharmacist,Password,Male,27,anna.male@hospital.com,62870607
+PH006,David,Pharmacist,Password,Male,36,david.male@hospital.com,45015144
+PH007,John,Pharmacist,Password,Female,45,john.female@hospital.com,70142064

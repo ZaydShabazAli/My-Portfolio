@@ -1,0 +1,4 @@
+UserID,Name,Role,Password,Gender,Age,Specialization,StaffEmail,StaffContact
+D001,John,Doctor,Password,Male,45,Cardiology,john.doe@hospital.com,12345678
+D002,Jane,Doctor,Password,Female,39,Neurology,jane.smith@hospital.com,12345678
+D003,Tom,Doctor,Password,Male,50,Orthopedics,robert.brown@hospital.com,12345678

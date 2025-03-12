@@ -1,0 +1,4 @@
+PatientID,numberOfUnpaid,numberOfPaid
+P001,2,1
+P002,1,0
+P005,1,0

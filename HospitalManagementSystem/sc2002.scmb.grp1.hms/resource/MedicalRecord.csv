@@ -1,0 +1,7 @@
+RecordID,PatientID,DoctorID,Diagnosis,Treatment,Prescription
+R001,P001,D001,Flu,Medication,Antihistamine
+R002,P002,D002,Cough,Medication,Cough Drops
+R003,P001,D001,Cold,Medication,Antihistamine
+R004,P002,D001,Mental,Medication,Anti-depressant
+R005,P001,D001,Sleep,Need sleep,Melatonin
+R006,P005,D005,Eyes pain,Eyes drop,Ciloxan

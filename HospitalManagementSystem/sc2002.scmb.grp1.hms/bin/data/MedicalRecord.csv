@@ -1,0 +1,4 @@
+RecordID,PatientID,DoctorID,Diagnosis,Treatment,Prescription
+R001,P001,D001,flue,Fluee,Flueee
+R002,P002,D002,Cough,Cough Medication,Patient under Cough Medication
+R003,P001,D001,cold,cold med,cold med

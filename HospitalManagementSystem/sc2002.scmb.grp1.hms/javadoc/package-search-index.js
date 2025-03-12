@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"sc2002.scmb.grp1.hms","l":"boundary"},{"m":"sc2002.scmb.grp1.hms","l":"controller"},{"m":"sc2002.scmb.grp1.hms","l":"entity"},{"m":"sc2002.scmb.grp1.hms","l":"repository"},{"m":"sc2002.scmb.grp1.hms","l":"util"}];updateSearchResults();

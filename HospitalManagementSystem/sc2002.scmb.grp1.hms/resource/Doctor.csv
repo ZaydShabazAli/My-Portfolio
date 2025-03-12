@@ -1,0 +1,8 @@
+UserID,Name,Role,Password,Gender,Age,Specialization,StaffEmail,StaffContact,Question,Answer
+D001,John,Doctor,Password,Male,45,Cardiology,YONGCAKE@doctor.com,12345679
+D002,Jane,Doctor,Password,Female,39,Neurology,jane.smith@hospital.com,12345678
+D003,Ryan,Doctor,Password,Female,45,Oncology,ryan.female@doctor.com,64953276
+D004,David,Doctor,Password,Male,40,Neurology,david.male@doctor.com,64953276
+D005,James,Doctor,Password,Male,51,Neurology,james.male@doctor.com,74452399
+D006,Emma,Doctor,Password,Male,36,Orthopedics,emma.male@doctor.com,77600835
+D007,Andrew,Doctor,Password,Male,44,Pediatrics,andrew.male@doctor.com,61170786
