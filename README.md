@@ -76,6 +76,20 @@ A **hospital management system** where **patients, doctors, pharmacists, and adm
 
 ---
 
+### 📌 6. **Police Contact App** 🚨📱  
+**Description:**  
+A mobile app that allows users to **report crimes**, **locate the nearest police station**, and **send alerts** based on real-time location data, aimed at improving safety and emergency response.
+
+🔹 **Tech Stack:** React Native, FastAPI (Python), MySQL, Google Maps API, Twilio API  
+🔹 **Key Features:**  
+- **User authentication** and **report submission system**  
+- **Location-based nearest station detection** using the Haversine formula and Google Maps  
+- **Crime data analysis** and top-crimes grid by police division  
+- **SMS alerts** routed to division-specific numbers via Twilio  
+- **Modular backend** with environment-secured config and automated server startup scripts
+
+---
+
 ## 🛠️ Skills & Technologies
 ✅ **Programming Languages:** Python, Java, C, C++  
 ✅ **AI & Machine Learning:** PyTorch, Scikit-Learn  
